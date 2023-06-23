@@ -60,6 +60,7 @@ datasummary(formula = new_data$growth + new_data$rgdp60 ~ new_data$treat * (mean
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
+For the growth variable, while comparing the means, we see from the table that the countries who has revolution has smaller values than the stable ones. This explains that stable countries have a better economic growth rate. 
 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
